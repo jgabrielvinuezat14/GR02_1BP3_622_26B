@@ -10,5 +10,11 @@ public class CalculatorExecute {
 
         int subtraction = c.subtraction(-7, -1);
         System.out.println("c.subtraction(-7,-1) = " + subtraction);
+
+        System.out.println("Esto es un cambio");
+        System.out.println("   /\\_/\\          _  ");
+        System.out.println("  ( o.o )        (o> ");
+        System.out.println("   > ^ <         //\\ ");
+        System.out.println("                 V_/_");
     }
 }
